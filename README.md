@@ -5,7 +5,7 @@ Hi! My name is Henrique Azevedo and I'm a starting full‑stack junior developer
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-s-azevedo)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henriqueazevedo.dev@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://henrique-s-azevedo.github.io)
+[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://henrique-s-azevedo.github.io/presentation-website/)
 
 
 # 💻 Tech Stack:
